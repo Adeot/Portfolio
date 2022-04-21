@@ -11,3 +11,11 @@ Se crea un modelo que intenta predecir, mediante regresión logísitica, las pri
 ### TP3 - Labo de Datos
 
 Se realiza un análisis de componente principales de un set de imágenes de prendas de vestir. Luego se hace un classificador KNN. 
+
+### TP2 - Procesos Estocásticos
+
+Se analiza el ruido blanco y se analizan la autocorrelación y la densidad espectral de potencia.
+
+### TP1 - Señales y Sistemas
+
+Se analiza el espectro de una secuencia de tonos telefónicos y se los demodulariza mediante la aplicación de filtros.
