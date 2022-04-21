@@ -14,7 +14,7 @@ Se realiza un análisis de componente principales de un set de imágenes de pren
 
 ### TP2 - Procesos Estocásticos
 
-Se analiza el ruido blanco y se analizan la autocorrelación y la densidad espectral de potencia.
+Se produce una secuencia de ruido blanco y se analiza su autocorrelación y la densidad espectral de potencia mediante distintos estimadores.
 
 ### TP1 - Señales y Sistemas
 
