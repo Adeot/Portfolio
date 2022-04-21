@@ -18,4 +18,4 @@ Se produce una secuencia de ruido blanco y se analiza su autocorrelación y la d
 
 ### TP - Señales y Sistemas
 
-Se analiza el espectro de una secuencia de tonos telefónicos y se los demodulariza mediante la aplicación de filtros.
+Se analiza el espectro de una secuencia de tonos telefónicos y se los demodula mediante la aplicación de filtros.
