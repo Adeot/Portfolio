@@ -16,6 +16,6 @@ Se realiza un análisis de componente principales de un set de imágenes de pren
 
 Se produce una secuencia de ruido blanco y se analiza su autocorrelación y la densidad espectral de potencia mediante distintos estimadores.
 
-### TP1 - Señales y Sistemas
+### TP - Señales y Sistemas
 
 Se analiza el espectro de una secuencia de tonos telefónicos y se los demodulariza mediante la aplicación de filtros.
