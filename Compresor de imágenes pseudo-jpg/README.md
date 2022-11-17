@@ -1,4 +1,4 @@
-### Resumen
+## Resumen
 
 Creo un compresor pseudo-jpg. En las imagenes de prueba se llega a reducir hasta un 94% del tamaño original.
 
